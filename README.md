@@ -1,11 +1,11 @@
 # Human-Following-Robot
 
-###DESCRIPTION - 
+##DESCRIPTION - 
 A basic project made implementing the fundamentals of arduino uno, IR sesons, Ultrasonic Sensor and other electrical components. 
-The code is written on Arduino 1.8.19.
+The code is written using C++ language on Arduino 1.8.19.
 
 
-###COMPONENTS USED - 
+##COMPONENTS USED - 
 1. Arduino UNO (1)
 2. Ultrasonic Sensor (1)
 3. IR Sensor (3)
